@@ -10,7 +10,7 @@ This repository holds the institute's public documentation. The website at <http
 | --- | --- |
 | [About](01-about/README.md) | The institute, its research areas and its director |
 | [Research](02-research/README.md) | The three lines of work and where each is documented |
-| [Publications](03-publications/README.md) | Papers, DOIs and the repositories that hold them |
+| [Papers](03-papers/README.md) | The Existence Theory series, its DOIs and where each paper lives |
 
 ## About this repository
 
