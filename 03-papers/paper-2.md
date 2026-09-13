@@ -24,4 +24,4 @@ The associated reconstruction also gives the matching-point condition θ̄(μ₀
 
 ## When it appears
 
-It will be released on Zenodo under the same concept DOI as the series, and listed here and in [kondo-research-institute/pfe](https://github.com/kondo-research-institute/pfe) at that point.
+It will be released on Zenodo under the same concept DOI as the series, and listed here and in [kondo-research/pfe](https://github.com/kondo-research/pfe) at that point.

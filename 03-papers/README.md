@@ -13,7 +13,7 @@ Existence Theory is presented as a series. Paper I derives the equation and comp
 | I | [Physics from Existence I: The Equation](paper-1.md) | Published — v4.1.1, 2026-09-01 |
 | II | [Physics from Existence II: The Proofs](paper-2.md) | In preparation |
 
-The papers themselves, their verification code and their detailed documentation live in [kondo-research-institute/pfe](https://github.com/kondo-research-institute/pfe). These pages summarise each paper and point there rather than repeating it, so there is one place where a number can change.
+The papers themselves, their verification code and their detailed documentation live in [kondo-research/pfe](https://github.com/kondo-research/pfe). These pages summarise each paper and point there rather than repeating it, so there is one place where a number can change.
 
 ## Citing the series
 

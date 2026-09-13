@@ -14,7 +14,7 @@ navigation:
 | Zenodo レコード | <https://zenodo.org/records/22217837> · DOI 10.5281/zenodo.22217837 |
 | 全版共通 | DOI [10.5281/zenodo.19451887](https://doi.org/10.5281/zenodo.19451887) |
 | 分量 | 英語版 38 頁、日本語版 45 頁 |
-| リポジトリ | [kondo-research-institute/pfe](https://github.com/kondo-research-institute/pfe) |
+| リポジトリ | [kondo-research/pfe](https://github.com/kondo-research/pfe) |
 
 ## 何を示したか
 
@@ -28,11 +28,11 @@ navigation:
 
 | | |
 | --- | --- |
-| 全文 | [English](https://github.com/kondo-research-institute/pfe/blob/main/docs/01-papers/physics_from_existence.md) · [日本語](https://github.com/kondo-research-institute/pfe/blob/main/docs/i18n/ja/01-papers/physics_from_existence.md) |
-| PDF | [English](https://github.com/kondo-research-institute/pfe/blob/main/paper1/physics_from_existence.pdf) · [日本語](https://github.com/kondo-research-institute/pfe/blob/main/paper1/physics_from_existence_ja.pdf) |
-| 結果 | [標準模型定数との比較と検証可能な予測](https://github.com/kondo-research-institute/pfe/blob/main/docs/i18n/ja/03-results/README.md) |
-| 検証 | [スクリプトの実行方法と出力の読み方](https://github.com/kondo-research-institute/pfe/blob/main/docs/i18n/ja/02-verification/README.md) |
-| 版履歴 | [DOI 付きの全版履歴](https://github.com/kondo-research-institute/pfe/blob/main/docs/i18n/ja/04-releases/README.md) |
+| 全文 | [English](https://github.com/kondo-research/pfe/blob/main/docs/01-papers/physics_from_existence.md) · [日本語](https://github.com/kondo-research/pfe/blob/main/docs/i18n/ja/01-papers/physics_from_existence.md) |
+| PDF | [English](https://github.com/kondo-research/pfe/blob/main/paper1/physics_from_existence.pdf) · [日本語](https://github.com/kondo-research/pfe/blob/main/paper1/physics_from_existence_ja.pdf) |
+| 結果 | [標準模型定数との比較と検証可能な予測](https://github.com/kondo-research/pfe/blob/main/docs/i18n/ja/03-results/README.md) |
+| 検証 | [スクリプトの実行方法と出力の読み方](https://github.com/kondo-research/pfe/blob/main/docs/i18n/ja/02-verification/README.md) |
+| 版履歴 | [DOI 付きの全版履歴](https://github.com/kondo-research/pfe/blob/main/docs/i18n/ja/04-releases/README.md) |
 
 ## 引用
 

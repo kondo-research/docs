@@ -18,4 +18,4 @@ The documentation is plain Markdown in the Lunascape Docs format: `lunascape-doc
 
 Related repositories:
 
-- [kondo-research-institute/pfe](https://github.com/kondo-research-institute/pfe) — the Existence Theory papers, their verification code and their own documentation
+- [kondo-research/pfe](https://github.com/kondo-research/pfe) — the Existence Theory papers, their verification code and their own documentation

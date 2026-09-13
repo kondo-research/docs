@@ -18,4 +18,4 @@
 
 関連リポジトリ:
 
-- [kondo-research-institute/pfe](https://github.com/kondo-research-institute/pfe) — 存在からの物理学の論文、検証コード、およびその独自ドキュメント
+- [kondo-research/pfe](https://github.com/kondo-research/pfe) — 存在からの物理学の論文、検証コード、およびその独自ドキュメント

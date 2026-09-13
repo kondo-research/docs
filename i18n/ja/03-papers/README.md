@@ -12,7 +12,7 @@ navigation:
 | I | [存在からの物理学 I: The Equation](paper-1.md) | 公開済み — v4.1.1、2026-09-01 |
 | II | [存在からの物理学 II: The Proofs](paper-2.md) | 準備中 |
 
-論文本体・検証コード・詳細なドキュメントは [kondo-research-institute/pfe](https://github.com/kondo-research-institute/pfe) にあります。本ページは各論文の要約と、そちらへの導線に留めています——数値が変わる箇所を一箇所に保つためです。
+論文本体・検証コード・詳細なドキュメントは [kondo-research/pfe](https://github.com/kondo-research/pfe) にあります。本ページは各論文の要約と、そちらへの導線に留めています——数値が変わる箇所を一箇所に保つためです。
 
 ## シリーズの引用
 
