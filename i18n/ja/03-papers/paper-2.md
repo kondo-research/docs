@@ -23,4 +23,4 @@ navigation:
 
 ## 公開時期
 
-シリーズと同じ concept DOI のもとで Zenodo に公開され、その時点で本ページと [h-kondo-lab/pfe](https://github.com/h-kondo-lab/pfe) に掲載します。
+シリーズと同じ concept DOI のもとで Zenodo に公開され、その時点で本ページと [kondo-research-institute/pfe](https://github.com/kondo-research-institute/pfe) に掲載します。

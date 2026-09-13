@@ -15,7 +15,7 @@ navigation:
 | Zenodo record | <https://zenodo.org/records/22217837> · DOI 10.5281/zenodo.22217837 |
 | All versions | DOI [10.5281/zenodo.19451887](https://doi.org/10.5281/zenodo.19451887) |
 | Length | 38 pages (English), 45 pages (Japanese) |
-| Repository | [h-kondo-lab/pfe](https://github.com/h-kondo-lab/pfe) |
+| Repository | [kondo-research-institute/pfe](https://github.com/kondo-research-institute/pfe) |
 
 ## What it establishes
 
@@ -29,11 +29,11 @@ Every numerical result is reproducible with the verification code published alon
 
 | | |
 | --- | --- |
-| Full text | [English](https://github.com/h-kondo-lab/pfe/blob/main/docs/01-papers/physics_from_existence.md) · [日本語](https://github.com/h-kondo-lab/pfe/blob/main/docs/i18n/ja/01-papers/physics_from_existence.md) |
-| PDF | [English](https://github.com/h-kondo-lab/pfe/blob/main/paper1/physics_from_existence.pdf) · [日本語](https://github.com/h-kondo-lab/pfe/blob/main/paper1/physics_from_existence_ja.pdf) |
-| Results | [Comparison with the Standard Model constants and testable predictions](https://github.com/h-kondo-lab/pfe/blob/main/docs/03-results/README.md) |
-| Verification | [Running the scripts and reading their output](https://github.com/h-kondo-lab/pfe/blob/main/docs/02-verification/README.md) |
-| Versions | [Full history with DOIs](https://github.com/h-kondo-lab/pfe/blob/main/docs/04-releases/README.md) |
+| Full text | [English](https://github.com/kondo-research-institute/pfe/blob/main/docs/01-papers/physics_from_existence.md) · [日本語](https://github.com/kondo-research-institute/pfe/blob/main/docs/i18n/ja/01-papers/physics_from_existence.md) |
+| PDF | [English](https://github.com/kondo-research-institute/pfe/blob/main/paper1/physics_from_existence.pdf) · [日本語](https://github.com/kondo-research-institute/pfe/blob/main/paper1/physics_from_existence_ja.pdf) |
+| Results | [Comparison with the Standard Model constants and testable predictions](https://github.com/kondo-research-institute/pfe/blob/main/docs/03-results/README.md) |
+| Verification | [Running the scripts and reading their output](https://github.com/kondo-research-institute/pfe/blob/main/docs/02-verification/README.md) |
+| Versions | [Full history with DOIs](https://github.com/kondo-research-institute/pfe/blob/main/docs/04-releases/README.md) |
 
 ## Citation
 
