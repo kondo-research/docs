@@ -24,4 +24,4 @@ Research centers on Existence Theory and information theory.
 
 ## Contact
 
-Research inquiries, collaboration and press: <https://www.kondo-lab.com/en/contact>
+Research inquiries, collaboration and press: <https://www.kondo-research.org/en/contact>

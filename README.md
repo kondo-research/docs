@@ -2,7 +2,7 @@
 
 Kondo Research Institute is a private research institute in Tokyo, working on theoretical physics, information theory, cryptography and distributed computing. Its central work is Existence Theory — a framework that derives Standard Model parameters from three axioms with zero free parameters.
 
-This repository holds the institute's public documentation. The website at <https://www.kondo-lab.com/> is the place to start reading about the research itself; these pages carry the reference material behind it, in a form that stays readable in plain text and is versioned with the work it describes.
+This repository holds the institute's public documentation. The website at <https://www.kondo-research.org/> is the place to start reading about the research itself; these pages carry the reference material behind it, in a form that stays readable in plain text and is versioned with the work it describes.
 
 ## Contents
 

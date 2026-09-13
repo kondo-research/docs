@@ -23,4 +23,4 @@ navigation:
 
 ## お問い合わせ
 
-研究に関するお問い合わせ、共同研究、取材: <https://www.kondo-lab.com/ja/contact>
+研究に関するお問い合わせ、共同研究、取材: <https://www.kondo-research.org/ja/contact>

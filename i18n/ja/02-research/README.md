@@ -13,16 +13,16 @@ navigation:
 
 論文・検証コード・専用ドキュメントは [kondo-research/pfe](https://github.com/kondo-research/pfe) にあります。現行版と引用方法は[論文 I](../03-papers/paper-1.md)を参照してください。
 
-サイトでの概説: <https://www.kondo-lab.com/ja/research/et/physics>
+サイトでの概説: <https://www.kondo-research.org/ja/research/et/physics>
 
 ## 量子計算
 
 量子暗号解析と耐量子暗号。楕円曲線離散対数問題に対する Shor のアルゴリズムの適用や、量子誤り訂正を含みます。
 
-サイトでの概説: <https://www.kondo-lab.com/ja/research/it/quantum-computing>
+サイトでの概説: <https://www.kondo-research.org/ja/research/it/quantum-computing>
 
 ## 分散コンピューティング
 
 Webとインターネットを基盤とする分散情報アクセスおよび分散コンピューティング。ブラウザとブロックチェーンを含みます。
 
-サイトでの概説: <https://www.kondo-lab.com/ja/research/it/internet>
+サイトでの概説: <https://www.kondo-research.org/ja/research/it/internet>

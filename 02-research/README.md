@@ -14,16 +14,16 @@ Formalizing what it means "to exist" uniquely yields a single equation, *V = −
 
 The papers, their verification code and their documentation live in [kondo-research/pfe](https://github.com/kondo-research/pfe). See [Paper I](../03-papers/paper-1.md) for the current version and how to cite it.
 
-Overview on the website: <https://www.kondo-lab.com/en/research/et/physics>
+Overview on the website: <https://www.kondo-research.org/en/research/et/physics>
 
 ## Quantum computing
 
 Quantum cryptanalysis and post-quantum cryptography, including work on Shor's algorithm applied to the elliptic-curve discrete logarithm problem, and on quantum error correction.
 
-Overview on the website: <https://www.kondo-lab.com/en/research/it/quantum-computing>
+Overview on the website: <https://www.kondo-research.org/en/research/it/quantum-computing>
 
 ## Distributed computing
 
 The web and the internet as a foundation for distributed information access and distributed computing, including browsers and blockchain.
 
-Overview on the website: <https://www.kondo-lab.com/en/research/it/internet>
+Overview on the website: <https://www.kondo-research.org/en/research/it/internet>
