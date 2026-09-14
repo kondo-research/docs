@@ -1,21 +1,10 @@
 {
-  "id": "kondo-research-docs",
-  "title": "近藤研究所",
-  "indexTitle": "目次",
-  "startPage": "README.md",
+  "title": {
+    "ja": "近藤研究所",
+    "en": "Kondo Research Institute"
+  },
+  "roots": ["paper-1", "institute"],
   "defaultLocale": "ja",
   "locales": ["ja", "en"],
-  "ignoredDirectories": ["_archive"],
-  "tree": {
-    "showFileNames": false,
-    "showDocumentIcons": false,
-    "showFolderIcons": false,
-    "showItemCounts": false,
-    "showGuides": true,
-    "density": "comfortable"
-  },
-  "editor": {
-    "defaultMode": "source",
-    "showEditButton": true
-  }
+  "home": { "cards": true }
 }

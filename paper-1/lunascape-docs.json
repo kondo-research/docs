@@ -1,0 +1,26 @@
+{
+  "id": "kondo-research-paper-1",
+  "title": {
+    "ja": "存在からの物理学 I",
+    "en": "Physics from Existence I"
+  },
+  "description": {
+    "ja": "論文「存在からの物理学 I: The Equation」（v4.1.1）の全文。存在に関する3つの公理から方程式 V = −H を導き、標準模型の26個の物理定数を再現する。",
+    "en": "The full text of \"Physics from Existence I: The Equation\" (v4.1.1). Three axioms about existence determine the equation V = −H, from which the 26 physical constants of the Standard Model are reproduced."
+  },
+  "startPage": "README.md",
+  "defaultLocale": "ja",
+  "locales": ["ja", "en"],
+  "tree": {
+    "showFileNames": false,
+    "showDocumentIcons": false,
+    "showFolderIcons": false,
+    "showItemCounts": false,
+    "showGuides": true,
+    "density": "comfortable"
+  },
+  "editor": {
+    "defaultMode": "source",
+    "showEditButton": true
+  }
+}
