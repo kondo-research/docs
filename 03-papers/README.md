@@ -1,22 +1,22 @@
 ---
 navigation:
-  title: Papers
+  title: 論文
   order: 300
 ---
 
-# Papers
+# 論文
 
-Existence Theory is presented as a series. Paper I derives the equation and computes the constants; Paper II supplies the proofs behind the results that Paper I attributes to it.
+存在からの物理学は、シリーズとして発表しています。論文 I が方程式を導出して定数を計算し、論文 II が、論文 I で「II による」と帰属させた結果の証明を与えます。
 
-| | Paper | Status |
+| | 論文 | 状態 |
 | --- | --- | --- |
-| I | [Physics from Existence I: The Equation](paper-1.md) | Published — v4.1.1, 2026-09-01 |
-| II | [Physics from Existence II: The Proofs](paper-2.md) | In preparation |
+| I | [存在からの物理学 I: The Equation](paper-1.md) | 公開済み — v4.1.1、2026-09-01 |
+| II | [存在からの物理学 II: The Proofs](paper-2.md) | 準備中 |
 
-The papers themselves, their verification code and their detailed documentation live in [kondo-research/pfe](https://github.com/kondo-research/pfe). These pages summarise each paper and point there rather than repeating it, so there is one place where a number can change.
+論文本体・検証コード・詳細なドキュメントは [kondo-research/pfe](https://github.com/kondo-research/pfe) にあります。本ページは各論文の要約と、そちらへの導線に留めています。数値が変わりうる箇所を一箇所だけに置くためです。
 
-## Citing the series
+## シリーズの引用
 
-Use the concept DOI, which always resolves to the latest published version:
+版によらず引用するには、常に最新の公開版へ解決される concept DOI を使ってください:
 
 > https://doi.org/10.5281/zenodo.19451887

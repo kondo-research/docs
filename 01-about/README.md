@@ -1,27 +1,27 @@
 ---
 navigation:
-  title: About
+  title: 研究所について
   order: 100
 ---
 
-# About the institute
+# 研究所について
 
-**Kondo Research Institute** is a private research institute founded to be a research institute of a new kind — one for the age of the internet and AI.
+**近藤研究所**は、インターネットとAIの時代にふさわしい新しい形の研究所を目指して設立された私設研究所です。
 
-The world is entering a period of profound change brought by the internet and AI, and what is changing most of all is the nature of research and intellectual work itself. The internet connected the world's information space; now AI is transforming the intellectual work that takes place within it. The institute takes as its theme the question of how to build a place where independent researchers can ask their own questions freely — redefining the role of the human being in the age of AI, while keeping intellectual discussion between people at its center.
+インターネットとAIによって世界は大きな変化の時期に入っており、なかでも最も変わりつつあるのは、研究や知的作業のあり方そのものです。インターネットは世界の情報空間をつなぎ、いまAIはそこで行われる知的作業を変えつつあります。当研究所は、AI時代における人間の役割を問い直しつつ、人と人との知的な議論を中心に据えたまま、独立した研究者が自らの問いを自由に立てられる場をどう作るか、をテーマとしています。
 
-Research centers on Existence Theory and information theory.
+研究の中心は存在からの物理学と情報理論です。
 
-## Director
+## 所長
 
-**Dr. Hidekazu Kondo** — researcher and entrepreneur, based in Tokyo. Starting from distributed computing research, his work expanded through quantum computing into theoretical physics, mathematics, cryptography and AI, and he proposed Existence Theory as a theoretical framework unifying these domains. Alongside the research he has founded several technology companies, bringing the work into products.
+**近藤秀和** — 東京を拠点とする研究者・起業家。分散コンピューティングの研究から出発し、量子計算を経て理論物理・数学・暗号・AIへと領域を広げ、これらを統合する理論的枠組みとして存在からの物理学を提唱しました。研究と並行して複数の技術企業を創業し、研究成果を製品として世に出しています。
 
-- B.Eng. and M.Eng. from Waseda University; Ph.D. in Engineering
-- [Lunascape](https://www.lunascape.org) — founder; a web browser with more than 20 million downloads
-- [G.U. Group](https://www.gu-group.com) — founder and CEO; Web3 solutions
-- [Japan Open Chain](https://www.japanopenchain.org) — co-founder; blockchain
-- Previously at [Sony Corporation](https://www.sony.com)
+- 早稲田大学 学士（工学）・修士（工学）、博士（工学）
+- [Lunascape](https://www.lunascape.org) — 創業者。2,000万ダウンロードを超えるウェブブラウザ
+- [G.U. Group](https://www.gu-group.com) — 創業者・CEO。Web3ソリューション
+- [Japan Open Chain](https://www.japanopenchain.org) — 共同創業者。ブロックチェーン
+- 前職: [ソニー株式会社](https://www.sony.com)
 
-## Contact
+## お問い合わせ
 
-Research inquiries, collaboration and press: <https://www.kondo-research.org/en/contact>
+研究に関するお問い合わせ、共同研究、取材: <https://www.kondo-research.org/ja/contact>

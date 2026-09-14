@@ -1,21 +1,28 @@
-# Kondo Research Institute
+---
+navigation:
+  order: 0
+---
 
-Kondo Research Institute is a private research institute in Tokyo, working on theoretical physics, information theory, cryptography and distributed computing. Its central work is Existence Theory — a framework that derives Standard Model parameters from three axioms with zero free parameters.
+# 近藤研究所
 
-This repository holds the institute's public documentation. The website at <https://www.kondo-research.org/> is the place to start reading about the research itself; these pages carry the reference material behind it, in a form that stays readable in plain text and is versioned with the work it describes.
+近藤研究所は、東京にある私設研究所です。理論物理・情報理論・暗号・分散コンピューティングを研究しており、中心にあるのは存在からの物理学（Existence Theory）——「存在するとはどういうことか」を定式化すると一意に定まる単一の方程式から、自由パラメータなしに標準模型のパラメータを導く枠組みです。
 
-## Contents
+本リポジトリは、研究所の公開ドキュメントを収めています。研究内容そのものは[ウェブサイト](https://www.kondo-research.org/)から読むのが早く、ここに置くのはその背後にある参照資料です。プレーンテキストのまま読め、記述の対象と同じリポジトリでバージョン管理される形にしてあります。
 
-| Section | What it covers |
+## 目次
+
+| セクション | 内容 |
 | --- | --- |
-| [About](01-about/README.md) | The institute, its research areas and its director |
-| [Research](02-research/README.md) | The three lines of work and where each is documented |
-| [Papers](03-papers/README.md) | The Existence Theory series, its DOIs and where each paper lives |
+| [研究所について](01-about/README.md) | 研究所の考え方、研究領域、所長 |
+| [研究](02-research/README.md) | 3つの研究の柱と、それぞれの資料の所在 |
+| [論文](03-papers/README.md) | 存在からの物理学シリーズ、DOI、各論文の所在 |
 
-## About this repository
+## このリポジトリについて
 
-The documentation is plain Markdown in the Lunascape Docs format: `lunascape-docs.json` marks the documentation root, each page carries its own title and order in front matter, and Japanese pages live under [`i18n/ja/`](i18n/ja/README.md). English is the canonical language. No build step is required — GitHub renders the pages as they are, and Lunascape Docs opens the same files with an index and a locale switcher.
+ドキュメントは Lunascape Docs 形式の素の Markdown です。リポジトリ直下の `lunascape-docs.json` が文書ルートを示し、各ページは自分の題名と順序を front matter に持ちます。**正本は日本語**で、英語版は [`i18n/en/`](i18n/en/README.md) 配下に置いています。順序は日本語ページが持ち、英語ページは題名だけを上書きします。
 
-Related repositories:
+ビルドは不要です。GitHub はこのまま表示し、Lunascape Docs は同じファイルを目次とロケール切り替え付きで開きます。
 
-- [kondo-research/pfe](https://github.com/kondo-research/pfe) — the Existence Theory papers, their verification code and their own documentation
+関連リポジトリ:
+
+- [kondo-research/pfe](https://github.com/kondo-research/pfe) — 存在からの物理学の論文、検証コード、および論文側の詳細ドキュメント

@@ -1,10 +1,10 @@
 {
-  "id": "kondo-lab-docs",
-  "title": "Kondo Research Institute",
-  "indexTitle": "Contents",
+  "id": "kondo-research-docs",
+  "title": "近藤研究所",
+  "indexTitle": "目次",
   "startPage": "README.md",
-  "defaultLocale": "en",
-  "locales": ["en", "ja"],
+  "defaultLocale": "ja",
+  "locales": ["ja", "en"],
   "ignoredDirectories": ["_archive"],
   "tree": {
     "showFileNames": false,

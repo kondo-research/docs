@@ -1,29 +1,29 @@
 ---
 navigation:
-  title: Research
+  title: 研究
   order: 200
 ---
 
-# Research
+# 研究
 
-Three lines of work, with Existence Theory at the centre.
+存在からの物理学を中心に、3つの柱で研究を進めています。
 
-## Existence Theory
+## 存在からの物理学
 
-Formalizing what it means "to exist" uniquely yields a single equation, *V = −H*. It contains no free parameters, yet the 26 physical constants of the Standard Model are reproduced from it with no adjustable parameters, together with structural results — three fermion generations, three spatial dimensions and the gauge group SU(3)×SU(2)×U(1).
+「存在する」とは何かを定式化すると、ひとつの方程式 *V = −H* が一意に導かれます。この方程式は自由パラメータを一切含みません。にもかかわらず、そこから標準模型の26個の物理定数が、調整可能なパラメータなしに再現されます。さらに、フェルミオンがちょうど3世代であること、空間が3次元であること、ゲージ群が SU(3)×SU(2)×U(1) になることといった構造も、同じ方程式から導かれます。
 
-The papers, their verification code and their documentation live in [kondo-research/pfe](https://github.com/kondo-research/pfe). See [Paper I](../03-papers/paper-1.md) for the current version and how to cite it.
+論文・検証コード・専用ドキュメントは [kondo-research/pfe](https://github.com/kondo-research/pfe) にあります。現行版と引用方法は[論文 I](../03-papers/paper-1.md)を参照してください。
 
-Overview on the website: <https://www.kondo-research.org/en/research/et/physics>
+サイトでの概説: <https://www.kondo-research.org/ja/research/et/physics>
 
-## Quantum computing
+## 量子計算
 
-Quantum cryptanalysis and post-quantum cryptography, including work on Shor's algorithm applied to the elliptic-curve discrete logarithm problem, and on quantum error correction.
+量子暗号解析と耐量子暗号を扱います。楕円曲線離散対数問題に対する Shor のアルゴリズムの適用や、量子誤り訂正が含まれます。
 
-Overview on the website: <https://www.kondo-research.org/en/research/it/quantum-computing>
+サイトでの概説: <https://www.kondo-research.org/ja/research/it/quantum-computing>
 
-## Distributed computing
+## 分散コンピューティング
 
-The web and the internet as a foundation for distributed information access and distributed computing, including browsers and blockchain.
+Webとインターネットを基盤とする、分散的な情報アクセスと分散コンピューティングの研究です。ブラウザとブロックチェーンが含まれます。
 
-Overview on the website: <https://www.kondo-research.org/en/research/it/internet>
+サイトでの概説: <https://www.kondo-research.org/ja/research/it/internet>

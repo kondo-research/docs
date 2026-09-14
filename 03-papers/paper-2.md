@@ -4,24 +4,24 @@ navigation:
   order: 200
 ---
 
-# Physics from Existence II: The Proofs
+# 存在からの物理学 II: The Proofs
 
-**Status: in preparation.** Paper I cites it as reference [20], "in preparation", and no version has been released yet. This page will carry the record and the DOI once it is published.
+**状態: 準備中。** 論文 I は参考文献 [20] としてこれを「準備中」と引いており、まだどの版も公開されていません。公開時点で、本ページに記録と DOI を掲載します。
 
-## What it will supply
+## 何を与えるか
 
-Paper I derives its results and computes its numbers, but defers the rigorous part of the argument: that each mapping rule between the derived mathematical structure and a physical observable is not a free parameter, and that no other coefficient, branch or readout survives once the identification is made. Claims of that kind are marked in Paper I with a superscript II rather than argued there, because doing so would require a body of argument of its own.
+論文 I は結果を導出して数値を計算しますが、議論の厳密な部分は論文 II に委ねています。すなわち、導出された数学的構造と物理的観測量とを結ぶ各対応規則が自由パラメータではないこと、そして同定を行った後に別の係数・分枝・読み出しが残らないことの証明です。この種の主張には、論文 I では上付きの II を付けるに留めています。そこで論じ切るには、それ自体で一編を要する分量になるためです。
 
-Seven of the quantities shown in Paper I's tables are derived in Paper II and displayed with that attribution:
+論文 I の表に現れる量のうち7つは論文 II で導出され、その帰属を明記して掲載されています:
 
-| Quantity | |
+| 量 | |
 | --- | --- |
-| CKM | \|V_cb\|, \|V_ub\|, δ_CKM |
+| CKM | \|V_cb\|、\|V_ub\|、δ_CKM |
 | PMNS | δ_PMNS |
-| Neutrino masses | m₁/m_e, m₃/m₂, Δm²₃₁/Δm²₂₁ |
+| ニュートリノ質量 | m₁/m_e、m₃/m₂、Δm²₃₁/Δm²₂₁ |
 
-The associated reconstruction also gives the matching-point condition θ̄(μ₀) = 0, and the all-orders value of the fine-structure constant, 1/α = 137.035999084, is proved there rather than in Paper I.
+これに付随する再構成は matching 点の条件 θ̄(μ₀) = 0 も与えます。また、微細構造定数の全次数の値 1/α = 137.035999084 は、論文 I ではなく論文 II で証明されます。
 
-## When it appears
+## 公開時期
 
-It will be released on Zenodo under the same concept DOI as the series, and listed here and in [kondo-research/pfe](https://github.com/kondo-research/pfe) at that point.
+シリーズと同じ concept DOI のもとで Zenodo に公開され、その時点で本ページと [kondo-research/pfe](https://github.com/kondo-research/pfe) に掲載します。
