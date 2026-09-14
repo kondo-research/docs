@@ -3,15 +3,8 @@
     "ja": "近藤研究所",
     "en": "Kondo Research Institute"
   },
-  "roots": [
-    "paper-1"
-  ],
+  "roots": ["paper-1", "institute"],
   "defaultLocale": "ja",
-  "locales": [
-    "ja",
-    "en"
-  ],
-  "home": {
-    "cards": true
-  }
+  "locales": ["ja", "en"],
+  "home": { "cards": true }
 }
